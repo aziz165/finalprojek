@@ -1,2 +1,7 @@
 # index.html
-https://github.com/aziz165/finalprojek.git
+
+git init 
+git remote finalprojek.html
+git add .  
+git commit -m "first commit"
+git push -u origin master
